@@ -24,16 +24,24 @@ please cut-and-paste the text from that email here._
 ## Problem 1
 - Scenario: As head of the TSA, you set the rules for screening passengers at airport checkpoints.
 - Assumptions:
-  - The main purpose of TSA is to make sure the security of people and the airport.   The import way is to use the screening  machine to check whether the belongings are safe.
+  The main purpose of TSA is to make sure the security of people and the airport.   The import way is to use the screening  machine to check whether the belongings are safe.
 - Assets:
-  - explanatory_paragraph
-  - explanatory_paragraph ...
+  The screening machine is at the central power of the checkpoint. We need to make sure it's performing as expected, providing useful and accurate information and covering various types of items to be scanned:
+  - The screening machine should be able to detect any types of items, covered by any non-metal materials of filled-into any regular items. The screening machine should also be ruled to stop and make signals to the item in case it can't make the decision.
+  - The screening machine may be serving for a long time and can't recognize new items or defend new attacks.
+  - The screening machine usually runs for a long period of time. Some functionality may not be 100% accuracy after a long-time run.
+
 - Threats:
-  - explanatory_paragraph 
-  - explanatory_paragraph ...
+As the screening machine is of the central power, attackers can come up with various ways to bypass/fool the machine. Another threat may come from the outdated functionality and detection ability:
+  - Attackers may use think, reflective or special non-metal materials to cover dangerous items.
+  - Attackers can also put/fill non-metal but prohibited items into normal items.
+  - Items produced by new techniques may not be identified and detected by old (or even not old) screening machines.
+
 - Countermeasures:
-  - explanatory_paragraph
-  - explanatory_paragraph ...
+It is very important to check its functionality overtimes, making sure the expected and unexpected behaviors given various items:
+
+  - An up-to-date list of items should be predefined and hard-coded into the machine: laptop, camera, smartphones, tablets, etc. 
+  - In case the list can't cover some newly produced items, a set of general rules should be specified try to cover any unknown or unexpected goods.
 
 ## Problem 2
 - Scenario: {Stadium|TSA|Documents|Grading|G20}
