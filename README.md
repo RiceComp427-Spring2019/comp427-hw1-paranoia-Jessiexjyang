@@ -54,7 +54,7 @@ please cut-and-paste the text from that email here._
   - back-up machines are important and should be ready to serve the checkpoint at any time.     
   - Backup security staffs and workers should be scheduled by human resources as well. 
 
-The above methods should be useful and cost-effective. Regular maintenance, routine check, and backup plans should be the industry standard in any area. Extra cost might come from the backup security staff since they don’t have much work to do if there is no outage.
+  The above methods should be useful and cost-effective. Regular maintenance, routine check, and backup plans should be the industry standard in any area. Extra cost might come from the backup security staff since they don’t have much work to do if there is no outage.
 
 
 ## Problem 2
