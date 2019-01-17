@@ -25,7 +25,7 @@ please cut-and-paste the text from that email here._
 - Scenario: As head of the TSA, you set the rules for screening passengers at airport checkpoints.
 - Assumptions:
 
-  The main purpose of TSA is to make sure the security of people and the airport.   The import way is to use the screening  machine to check whether the belongings are safe.
+  The main purpose of TSA is to make sure the security of people and the airport. One of the important approaches is to use the screening machine to check whether the belongings are safe.
 - Assets:
 
   The screening machine is at the central power of the checkpoint. We need to make sure it's performing as expected, providing useful and accurate information and covering various types of items to be scanned:
@@ -35,7 +35,7 @@ please cut-and-paste the text from that email here._
 - Threats:
 
   As the screening machine is of the central power, attackers can come up with various ways to bypass/fool the machine. Another threat may come from the outdated functionality and detection ability:
-  - Attackers may use think, reflective or special non-metal materials to cover dangerous items.
+  - Attackers may use thick, reflective or special non-metal materials to cover dangerous items.
   - Attackers can also put/fill non-metal but prohibited items into normal items.
   - Items produced by new techniques may not be identified and detected by old (or even not old) screening machines.
 - Countermeasures:
@@ -64,7 +64,7 @@ please cut-and-paste the text from that email here._
   This document management has various types of documents. Some of them are available for all people, while some are private.  There will be a reading history for each reader. 
 - Assets:
 
-  The most important feature for a document management system is providing the requested content correctly and timely:
+  One of the most important assets for a document management system is availability: providing the requested content correctly and timely.
   - The full document should be retrieved and present to the reader. Documents need to be well indexed for search purpose. We don't expect missing or partial document being served. 
   - Documents also need to be well maintained for time-sensitive requests. Retrieving a document shouldn't take a long and unexpected time.
   
