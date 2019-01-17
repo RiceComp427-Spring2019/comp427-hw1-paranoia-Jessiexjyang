@@ -60,10 +60,21 @@ please cut-and-paste the text from that email here._
 ## Problem 2
 - Scenario: As head of IT for an international law firm, you are responsible for a document management system; some documents stored there are about sensitive legal, financial, or political matters.
 - Assumptions:
-  - explain_your_assumptions
+
+  This document management has various types of documents. Some of them are available for all people, while some are private.  There will be a reading history for each reader. 
 - Assets:
-  - explanatory_paragraph
-  - explanatory_paragraph ...
+
+  The most important feature for a document management system is providing the requested content correctly and timely:
+  - The full document should be retrieved and present to the reader. Documents need to be well indexed for search purpose. We don't expect missing or partial document being served. 
+  - Documents also need to be well maintained for time-sensitive requests. Retrieving a document shouldn't take a long and unexpected time.
+  
+  Storage safety is similar to the aforementioned availability in some aspects, while it has additional requirements. Before requesting and reading documents, we need to properly keep and store the documents:
+  - Storage should be well-maintained and capable to store future documents (in terms of document size)
+  - Duplication and backups are needed in case one of the storage units is not working
+  - Storage system should be guarded against theft or damage.
+
+
+
 - Threats:
   - explanatory_paragraph 
   - explanatory_paragraph ...
