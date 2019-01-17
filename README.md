@@ -24,7 +24,7 @@ please cut-and-paste the text from that email here._
 ## Problem 1
 - Scenario: As head of the TSA, you set the rules for screening passengers at airport checkpoints.
 - Assumptions:
- - The main purpose of TSA is to make sure the security of people and the airport.   The import way is to use the screening  machine to check whether the belongings are safe.
+  - The main purpose of TSA is to make sure the security of people and the airport.   The import way is to use the screening  machine to check whether the belongings are safe.
 - Assets:
   - explanatory_paragraph
   - explanatory_paragraph ...
