@@ -22,8 +22,9 @@ _If you contacted us in advance and we approved a late submission,
 please cut-and-paste the text from that email here._
 
 ## Problem 1
-- Scenario: {Stadium|TSA|Documents|Grading|G20}
+- Scenario: As head of the TSA, you set the rules for screening passengers at airport checkpoints.
 - Assumptions:
+
   - explain_your_assumptions
 - Assets:
   - explanatory_paragraph
