@@ -102,16 +102,45 @@ please cut-and-paste the text from that email here._
   All of the three ways cost extra resources in terms of hardware and human. The tradeoff can be extracted from the duplication: the more duplication the system has, the more robust the system is (it will cost more as well).
 
 ## Problem 3
-- Scenario: Your choice (give a brief explanation)
+- Scenario: Carpool and payment split.
 - Assumptions:
-  - explain_your_assumptions
+
+  The Houston area is large and we need carpooling everytime going to the airport or shopping. Mailists, forums or chat groups are used for finding partners and split the money. We need to pay attention to bodily safety and money safety.
+
 - Assets:
-  - explanatory_paragraph
-  - explanatory_paragraph ...
+
+  We usually find partners via online chat which introduces uncertainty:
+  - Their profile can be fake with the wrong education/work experience.
+  - The person who paid wants to collect the money from others easily.
+  - They are bringing other strangers.
+
 - Threats:
-  - explanatory_paragraph 
-  - explanatory_paragraph ...
+
+  In case we find someone with a fake profile:
+  - Not all users from the maillist/forum/chat group are from the university.
+  - They can steal personal information for us (name, address, school, phone, etc.).
+  - They can meet us for other purposes.
+  
+  Also, if we pay for the carpooling:
+  - Sometimes the other side did not transfer the money in the car.
+  - Sometimes they claimed they paid while they did not.
+  - They are not responding timely.
+
+
 - Countermeasures:
-  - explanatory_paragraph
-  - explanatory_paragraph ...
+
+  Based on the aforementioned threats, there can be multiple ways of enhancing the security for carpooling when finding partners:
+  - Use the forum or group with identity verification (university email for example).
+  - Ask for photo IDs.
+  - Perform a video chat before meeting outside.
+  
+  The first approach requires either the university/social network/students build and run a platform to perform identity verification. But this should be the most effective way to identify the strangers. The other two ways require additional conversation and sometimes the other side will give up and find others to do the carpooling.
+  
+  For money safety, the one who pays in advance can:
+  - Ask other carpoolers pay before getting off the car.
+  - Use mobile Apps (Venmo for example) to collect the money electronically.
+  
+  The first approach is timely and effectively, but sometimes it’s not super convenient for all the carpooler paying in the car (especially with cash). The second approach is also timely, convenient in terms of money transfer with history for reference, while it requires the App download, registration, and login (in case not all carpoolers are registered users of that App).
+
+
 
