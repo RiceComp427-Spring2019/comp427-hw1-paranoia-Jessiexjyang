@@ -109,7 +109,7 @@ please cut-and-paste the text from that email here._
 
 - Assets:
 
-  We usually find partners via online chat which introduces uncertainty:
+  We usually find partners via online chat which introduces uncertainty in terms of body safety and money safety:
   - Their profile can be fake with the wrong education/work experience.
   - The person who paid wants to collect the money from others easily.
   - They are bringing other strangers.
