@@ -87,8 +87,19 @@ please cut-and-paste the text from that email here._
   - A storage system may be broken or dead. It can from the power breakdown, the temperature, the hardware durability, etc.
   - The storage unit can be damaged intentionally by attackers, while can also suffering from natural disasters (storm, earthquake, etc.). It can also be stolen by competitors under some cases.
 - Countermeasures:
-  - explanatory_paragraph
-  - explanatory_paragraph ...
+
+  In order to serve documents with perfect availability, several countermeasures can be performed:
+  - It is of great necessity to check and test the system functionality overtimes, making sure expected documents can be served timely.
+  - A dashboard should be set up to show the service status (availability, workload, response time, etc). In this way, we can better allocate resources and notice/predict potential outages.
+  
+  The first approach is of low cost: just perform the test as usual, but extremely helpful to reflect the system functionality. The second one requires extra resources to collect signals (even, in real time), set up dashboards and monitoring 7*24. While it can also provide high-quality service: any outage can be identified in real time. 
+  
+  For storage safety, starting from the threats, the following countermeasures are proposed:
+  - Always check the remaining storage capacity and run a dashboard system to monitor the capacity.
+  - Make a copy of storage units periodically. A multi-duplicated backup scheme is also preferred.
+  - Keep the storage unit in safe places away from extreme weather, and also introduce extra resources (monitoring cameras, safety guards, etc.) to enhance the storage security.
+
+  All of the three ways cost extra resources in terms of hardware and human. The tradeoff can be extracted from the duplication: the more duplication the system has, the more robust the system is (it will cost more as well).
 
 ## Problem 3
 - Scenario: Your choice (give a brief explanation)
