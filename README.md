@@ -44,12 +44,13 @@ please cut-and-paste the text from that email here._
 
   - An up-to-date list of items should be predefined and hard-coded into the machine: laptop, camera, smartphones, tablets, etc. 
   - In case the list can't cover some newly produced items, a set of general rules should be specified try to cover any unknown or unexpected goods.
+  
   The above ideas should be useful and cost-effective. Even it's not cost-effective, we still need to pay for the cost to gain the safety gain.
   Pressure test and extreme test are also of great necessity: 
   - Periodically make the machine running for consecutive hours (24 hours as an example) to make sure it can still perform well with the same high precision. 
   - Put a huge number of items on the luggage moving belt. Super-heavy items, heavily covered suitcases, tiny and light items are also good for testing.
 
-In case of an outage,
+  In case of an outage,
   - back-up machines are important and should be ready to serve the checkpoint at any time.     
   - Backup security staffs and workers should be scheduled by human resources as well. 
 
