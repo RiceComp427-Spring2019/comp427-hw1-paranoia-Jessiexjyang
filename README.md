@@ -76,8 +76,16 @@ please cut-and-paste the text from that email here._
 
 
 - Threats:
-  - explanatory_paragraph 
-  - explanatory_paragraph ...
+
+  The following can be the list of threats which may impact the document management system in terms of availability. Note that not all of them are intentional or from an "attacker". Some threats can occur by poor management or purely by nature:
+  - There can be a large number of documents belonging to the same category. When retrieved by category, some documents may be missing due to the lack of index or improper index.
+  - Due to the bulk volume of documents, retrieving a relative old document may take a long time. Sometimes the waiting time can't serve for the requirement, thus no information is served for the request. For example, newly produced documents may be stored in "hot" storage while old or non-popular documents are kept in "cold" storage.
+  - The system itself may be suspending or stop serving documents due to durability or just system bugs.
+  
+  Similar to other assets, storage safety is also under threats, either intentional or just by nature:
+  - The storage space is always limited and pre-set. We can't expect to have unlimited space. An incoming batch of documents with a relatively large size may not be able to put into the system.
+  - A storage system may be broken or dead. It can from the power breakdown, the temperature, the hardware durability, etc.
+  - The storage unit can be damaged intentionally by attackers, while can also suffering from natural disasters (storm, earthquake, etc.). It can also be stolen by competitors under some cases.
 - Countermeasures:
   - explanatory_paragraph
   - explanatory_paragraph ...
